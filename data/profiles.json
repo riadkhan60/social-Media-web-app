@@ -1,0 +1,22 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Saima",
+      "pictures": "./saima.jpg",
+      "age": 22
+    },
+    {
+      "id": 2,
+      "name": "Riad",
+      "pictures": "./riad.jpg",
+      "age": 22
+    },
+    {
+      "id": 1,
+      "name": "Riam",
+      "pictures": "./riam.jpg",
+      "age": 22
+    }
+  ]
+}
